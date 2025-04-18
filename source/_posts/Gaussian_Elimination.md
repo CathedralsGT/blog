@@ -40,3 +40,5 @@ def LDLt(A):                # 改进后的Cholesky分解，L中除主对角线�
             A[row_num][col_num] /= A[col_num][col_num]
     return A
 ```
+
+test post update
