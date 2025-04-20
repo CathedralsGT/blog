@@ -1,7 +1,7 @@
 ---
 title: Gaussian Elimination(A=LU)
 date: 2025-03-29 14:30
-categories: Matrix Factorization
+categories: Numerical Linear Algebra
 mathjex: true
 ---
 

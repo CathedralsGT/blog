@@ -110,5 +110,5 @@ theme: flexblock       #landscape #flexblock
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git
-  repo: http://github.com/CathedralsGT/CathedralsGT.github.io
+  repo: git@github.com:CathedralsGT/CathedralsGT.github.io.git #git@github.com:CathedralsGT/CathedralsGT.github.io.git   http://github.com/CathedralsGT/CathedralsGT.github.io
   branch: main

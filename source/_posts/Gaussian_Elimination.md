@@ -1,7 +1,7 @@
 ---
 title: Cholesky Factorization
 date: 2025-03-29 14:50:02
-categories: Matrix Factorization
+categories: Numerical Linear Algebra
 mathjex: true
 ---
 
