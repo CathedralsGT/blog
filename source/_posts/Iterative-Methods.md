@@ -1,7 +1,7 @@
 ---
 title: Iterative Methods
 date: 2025-04-20 02:25:31
-tags: Numerical Linear Algebra
+categories: Numerical Linear Algebra
 ---
 
 
